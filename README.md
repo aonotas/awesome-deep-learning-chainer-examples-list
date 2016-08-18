@@ -8,6 +8,9 @@ https://github.com/pfnet/chainer
 
 ### DeepPose
 https://twitter.com/masvsn/status/613296357881704448
+<blockquote class="twitter-tweet" data-cards="hidden" data-lang="ja"><p lang="da" dir="ltr">DeepPose implementation by Chainer (<a href="https://twitter.com/ChainerOfficial">@ChainerOfficial</a>). Single stage AlexNet, 450 epoch. <a href="https://t.co/suydZkOnX6">https://t.co/suydZkOnX6</a> <a href="http://t.co/4JStfN83tX">pic.twitter.com/4JStfN83tX</a></p>&mdash; assisi (@masvsn) <a href="https://twitter.com/masvsn/status/613296357881704448">2015年6月23日</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 ### Convolutional Autoencoder
 https://twitter.com/kotone_nyt/status/616538719449821184
@@ -15,7 +18,7 @@ https://twitter.com/kotone_nyt/status/616538719449821184
 ### ChainerでAutoencoderを試して結果を可視化してみる。
 https://twitter.com/Kenmatsu4/status/617493238031618048
 
- ### R-CNN
+### R-CNN
 https://twitter.com/sinhrks/status/617691587850579968
 
 ### Deep Q-Network
