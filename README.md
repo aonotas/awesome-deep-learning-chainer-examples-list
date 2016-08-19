@@ -81,10 +81,11 @@ https://twitter.com/ChainerOfficial/status/692460820446498816
 ### Generative Adversarial Nets
 https://twitter.com/rezoolab/status/623105655839199232
 
-
 ###  fauxtorgaph to make generative fonts with GANs
 https://twitter.com/Teejosaur/status/694588057023037440
 
+### DCGAN
+https://twitter.com/mattya1089/status/676730414875054080
 
 ### Deep Q-Network
 https://twitter.com/movingsloth/status/619728767133454336
